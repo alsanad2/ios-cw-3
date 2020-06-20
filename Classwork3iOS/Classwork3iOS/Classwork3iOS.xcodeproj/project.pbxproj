@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1FB652EE249E8F8B00B42B8E /* Classwork3iOS in Resources */ = {isa = PBXBuildFile; fileRef = 1FB652ED249E8F8B00B42B8E /* Classwork3iOS */; };
 		AEB5779E248B0395001F96D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB5779D248B0395001F96D0 /* AppDelegate.swift */; };
 		AEB577A0248B0395001F96D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB5779F248B0395001F96D0 /* SceneDelegate.swift */; };
 		AEB577A2248B0395001F96D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB577A1248B0395001F96D0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1FB652ED249E8F8B00B42B8E /* Classwork3iOS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Classwork3iOS; sourceTree = SOURCE_ROOT; };
 		AEB5779A248B0395001F96D0 /* Classwork3iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Classwork3iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEB5779D248B0395001F96D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AEB5779F248B0395001F96D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				AEB5779D248B0395001F96D0 /* AppDelegate.swift */,
 				AEB5779F248B0395001F96D0 /* SceneDelegate.swift */,
 				AEB577A1248B0395001F96D0 /* ViewController.swift */,
+				1FB652ED249E8F8B00B42B8E /* Classwork3iOS */,
 				AEB577A3248B0395001F96D0 /* Main.storyboard */,
 				AEB577A6248B0396001F96D0 /* Assets.xcassets */,
 				AEB577A8248B0396001F96D0 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FB652EE249E8F8B00B42B8E /* Classwork3iOS in Resources */,
 				AEB577AA248B0396001F96D0 /* LaunchScreen.storyboard in Resources */,
 				AEB577A7248B0396001F96D0 /* Assets.xcassets in Resources */,
 				AEB577A5248B0395001F96D0 /* Main.storyboard in Resources */,
